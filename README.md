@@ -4,7 +4,7 @@ This app lets you create book clubs with your friends where you can track goals,
 
 ## Front-end Best Books Interface
 
-You can use this app in conjunction with my book club app API [see the repo](https://github.com/christine-contreras/best-books-api)
+You can use this app in conjunction with my book club app API [see the repo](https://github.com/)
 
 ## Technologies Used In This App
 
