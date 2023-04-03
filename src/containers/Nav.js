@@ -26,7 +26,7 @@ const Nav = ({ user, onLogout }) => {
             className='flex'
             align='center'>
             <BookmarkIcon sx={{ fontSize: '3em' }} color='primary' />
-            <span className='logo'>Best Books</span>
+            <span className='logo'>Books App</span>
           </Typography>
         </Link>
         {!user ? (

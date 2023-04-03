@@ -17,10 +17,10 @@ const Hero = ({ user }) => {
         <Grid item xs={12} alignItems='center'>
           <Typography component='h1' variant='h1' align='left'>
             Read Together. <br />
-            Stay Connected.
+            Share knowledge.
           </Typography>
           <Typography component='p' variant='subtitle1' align='left'>
-            Explore a new world with your friends and family.
+            Explore any book you want.
           </Typography>
           <div className='padding-top'>
             <Button
@@ -30,7 +30,7 @@ const Hero = ({ user }) => {
               variant='contained'
               className='b-radius btn btn-lg'
               color='primary'>
-              Start A Book Club
+              Create A Book Club
             </Button>
           </div>
         </Grid>

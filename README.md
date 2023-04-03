@@ -2,9 +2,8 @@
 
 This app lets you create book clubs with your friends where you can track goals, create discussion questions, and comment on the discussion questions.
 
-## Front-end Best Books Interface
-
-You can use this app in conjunction with my book club app API [see the repo](https://github.com/)
+## Back-end Best Books Interface
+You can use this app in conjunction with my book club app API [see the repo](https://github.com/AbelRutto/backend-api-for-best-books)
 
 ## Technologies Used In This App
 
@@ -25,8 +24,8 @@ npm install
 npm start
 
 ```
-
-Setup to use port 4000 and use an API on port 3000
+## setting up the project 
+Setup to use port 4000  in running the front-end and use an API on port `http://127.0.0.1:3000/` in running back-end
 
 ## Features
 
